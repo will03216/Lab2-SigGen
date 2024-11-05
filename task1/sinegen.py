@@ -9,5 +9,9 @@ for i in range(256):
         s = "{hex:2X} "
     f.write(s.format(hex=v))
 
+<<<<<<< HEAD
 f.close()
 
+=======
+f.close()
+>>>>>>> main

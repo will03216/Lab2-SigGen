@@ -3,7 +3,11 @@
 #include "Vsigdelay.h"
 
 #include "vbuddy.cpp"     // include vbuddy code
+<<<<<<< HEAD
 #define MAX_SIM_CYC 10000
+=======
+#define MAX_SIM_CYC 1000000
+>>>>>>> main
 #define ADDRESS_WIDTH 9
 #define RAM_SZ pow(2,ADDRESS_WIDTH)
 
